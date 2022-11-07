@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dukamoja/static/css/main.78212573.css",
+    "main.js": "/dukamoja/static/js/main.70314efa.js",
+    "static/media/homeImprovement8.png": "/dukamoja/static/media/homeImprovement8.ef25d359387a25ea60f5.png",
+    "static/media/catalog2.png": "/dukamoja/static/media/catalog2.1f7f22618f593f6c3b0e.png",
+    "static/media/offer5.png": "/dukamoja/static/media/offer5.f889c984b9f1a7ff2c1b.png",
+    "static/media/construction6.png": "/dukamoja/static/media/construction6.07d17f3e01f146bb28a0.png",
+    "static/media/img24.png": "/dukamoja/static/media/img24.5c5d14b9e1a0add953b2.png",
+    "index.html": "/dukamoja/index.html",
+    "main.78212573.css.map": "/dukamoja/static/css/main.78212573.css.map",
+    "main.70314efa.js.map": "/dukamoja/static/js/main.70314efa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78212573.css",
+    "static/js/main.70314efa.js"
+  ]
+}
