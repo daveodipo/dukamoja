@@ -2,7 +2,6 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import { Transition } from '@headlessui/react';
 import { HiUserCircle } from "react-icons/hi";
-// import { HiUserCircleCircle } from "react-icons/bi";
 import { Squash as Hamburger } from 'hamburger-react';
 import { HiOutlineSearch } from "react-icons/hi";
 import { FiShoppingCart } from "react-icons/fi";
